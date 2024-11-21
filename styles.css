@@ -142,7 +142,7 @@ margin: 1em 0;
 }
 
 .container__botao:hover {
-    background-color: blue;
+    background-color: rgb(181, 36, 248);
   }
   .lista__link:hover{
 color: rgb(252, 25, 25);
