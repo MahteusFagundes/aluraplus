@@ -145,6 +145,6 @@ margin: 1em 0;
     background-color: blue;
   }
   .lista__link:hover{
-color: red;
+color: rgb(252, 25, 25);
 
   }
